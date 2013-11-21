@@ -3,7 +3,7 @@ Hexa-Ode
 
 A poems generator for hexadecimal colors
 
-Written by Brice THOMAS
+Written by Brice Thomas
 
 Demo
 ----
